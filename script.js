@@ -6,7 +6,7 @@ searchBtn.addEventListener('click', function () {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': '743bc57322mshc8d5751aead44b9p1aaadfjsnfce64e9b2980',
+            'X-RapidAPI-Key': process.env.API_KEY,
             'X-RapidAPI-Host': 'quotes-by-api-ninjas.p.rapidapi.com'
         }
     };
