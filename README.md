@@ -11,7 +11,7 @@ Quotify is a web application that provides a collection of quotes to motivate an
 - JavaScript
 
 # Getting Started
- - Clone the repository: git clone https://github.com/your-username/quotify.git
+ - Clone the repository: git clone https://github.com/khushalarora/Quotify.git
  - Open the index.html file in your web browser.
 
 # Usage
